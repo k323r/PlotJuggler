@@ -11,7 +11,7 @@ sudo apt -y install qtbase5-dev libqt5svg5-dev libqt5websockets5-dev \
 On Fedora:
 
 ```shell
-sudo dnf install qt5-qtbase-devel qt5-qtsvg-devel qt5-websockets-devel \
+sudo dnf install qt5-qtbase-devel qt5-qtsvg-devel qt5-qtwebsockets-devel \
       qt5-qtopendl-devel qt5-qtx11extras-devel
 ```
 
